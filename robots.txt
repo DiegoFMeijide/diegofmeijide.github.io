@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://diegofmeijide.github.io/sitemap.xml
