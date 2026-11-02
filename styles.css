@@ -59,6 +59,7 @@ h3{font-size:25px;font-weight:500;line-height:1.35;letter-spacing:-.65px;margin:
 .abstract-note:empty{display:none}
 .original-title{color:var(--muted);font-size:12px;line-height:1.7;margin:18px 0 0}
 .original-title cite{font-style:normal}
+.title-translation{font-size:13px;line-height:1.6;margin:-6px 0 16px}
 .teaching-list article+article{border-top:1px solid var(--rule);padding-top:25px;margin-top:25px}
 .teaching-list h3{font-size:21px;line-height:1.4;margin-bottom:10px}
 .teaching-list p{font-size:14px;margin:0;line-height:1.8}
@@ -68,7 +69,6 @@ h3{font-size:25px;font-weight:500;line-height:1.35;letter-spacing:-.65px;margin:
 .contact-row{position:relative;z-index:1;display:grid;grid-template-columns:225px minmax(0,1fr);gap:52px;padding-block:72px 82px}
 .contact-content{min-width:0;font-size:16px;line-height:1.65}
 .email{overflow-wrap:anywhere}
-.contact-content p{margin:12px 0}
 .socials{display:flex;flex-wrap:wrap;gap:28px}
 .footer-art{position:absolute;color:var(--accent);width:330px;right:calc((100% - min(1180px,100% - 112px))/2 - 190px);top:0;opacity:.85;pointer-events:none}
 .footer-bottom{position:relative;z-index:1;display:flex;justify-content:space-between;gap:28px;border-top:1px solid #929292;padding-block:19px 25px;font-size:11px}
