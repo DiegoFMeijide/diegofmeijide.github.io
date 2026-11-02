@@ -1,7 +1,7 @@
 {
   "en": {
     "pageTitle": "Diego Fernández Meijide | Economics & public policy",
-    "pageDescription": "Diego Fernández Meijide is an economist based in Buenos Aires. His work spans labor economics, artificial intelligence, education, crime, and behavioral economics.",
+    "pageDescription": "Diego Fernández Meijide is an economist based in Buenos Aires. His work spans labor economics, artificial intelligence, education, crime, behavioral economics, and political economy.",
     "navResearch": "Research",
     "navTeaching": "Teaching",
     "navWriting": "Public writing",
@@ -9,7 +9,7 @@
     "name": "Diego Fernández Meijide",
     "role": "Economist",
     "photoAlt": "Portrait of Diego Fernández Meijide",
-    "bio": "I am an economist based in Buenos Aires, currently working as a consultant at CAF. My work and ongoing research span labor economics, artificial intelligence, education, crime, and behavioral economics.",
+    "bio": "I am an economist based in Buenos Aires, currently working as a consultant at CAF. My work and ongoing research span labor economics, artificial intelligence, education, crime, behavioral economics, and political economy.",
     "location": "Buenos Aires, Argentina",
     "downloadCv": "Download CV",
     "contactAction": "Get in touch",
@@ -87,7 +87,7 @@
   },
   "es": {
     "pageTitle": "Diego Fernández Meijide | Economía y políticas públicas",
-    "pageDescription": "Diego Fernández Meijide es economista y vive en Buenos Aires. Trabaja en economía laboral, inteligencia artificial, educación, crimen y economía del comportamiento.",
+    "pageDescription": "Diego Fernández Meijide es economista y vive en Buenos Aires. Trabaja en economía laboral, inteligencia artificial, educación, crimen, economía del comportamiento y economía política.",
     "navResearch": "Investigación",
     "navTeaching": "Docencia",
     "navWriting": "Divulgación",
@@ -95,7 +95,7 @@
     "name": "Diego Fernández Meijide",
     "role": "Economista",
     "photoAlt": "Retrato de Diego Fernández Meijide",
-    "bio": "Soy economista, vivo en Buenos Aires y actualmente trabajo como consultor en CAF. Mi trabajo y mis investigaciones en curso abarcan economía laboral, inteligencia artificial, educación, crimen y economía del comportamiento.",
+    "bio": "Soy economista, vivo en Buenos Aires y actualmente trabajo como consultor en CAF. Mi trabajo y mis investigaciones en curso abarcan economía laboral, inteligencia artificial, educación, crimen, economía del comportamiento y economía política.",
     "location": "Buenos Aires, Argentina",
     "downloadCv": "Descargar CV en inglés",
     "contactAction": "Escribime",
