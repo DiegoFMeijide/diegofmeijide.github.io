@@ -43,7 +43,7 @@ h1{font-size:42px;font-weight:500;line-height:1.16;letter-spacing:-1.6px;margin:
 h3{font-size:25px;font-weight:500;line-height:1.35;letter-spacing:-.65px;margin:0 0 15px;text-wrap:pretty}
 .authors,.advisor{margin:0;font-size:15px;line-height:1.65}
 .research-entry+.research-entry{border-top:1px solid var(--rule);padding-top:36px;margin-top:36px}
-.entry-actions{display:grid;grid-template-columns:max-content minmax(0,1fr);column-gap:35px;align-items:start;margin-top:17px;font-size:14px;font-weight:500}
+.entry-actions{display:flex;flex-wrap:wrap;align-items:flex-start;column-gap:35px;margin-top:17px;font-size:14px;font-weight:500}.entry-actions .summary-toggle{order:-1}.entry-actions .abstract{order:1;flex-basis:100%}
 .summary-toggle{border:0;background:none;font:inherit;text-align:left;width:max-content;max-width:100%;cursor:pointer;list-style:none;padding:7px 0;line-height:1.5;text-decoration:underline;text-decoration-color:var(--accent);text-underline-offset:7px;text-decoration-thickness:2px}
 .plus{display:inline-block;position:relative;width:10px;height:10px;margin-left:7px}
 .plus::before,.plus::after{content:'';position:absolute;background:currentColor;left:0;top:4px;width:10px;height:1.5px}
